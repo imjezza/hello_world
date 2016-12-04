@@ -1,2 +1,3 @@
 # hello_world
 just doing the tutorial
+hi im jeremy. just learing how to use github, and confused why you're reading this. whats up tho...
